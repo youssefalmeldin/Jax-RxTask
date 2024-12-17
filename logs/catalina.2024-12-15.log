@@ -1,0 +1,40 @@
+15-Dec-2024 21:57:36.806 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.98
+15-Dec-2024 21:57:36.809 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Dec 5 2024 19:50:29 UTC
+15-Dec-2024 21:57:36.810 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.98.0
+15-Dec-2024 21:57:36.810 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+15-Dec-2024 21:57:36.810 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+15-Dec-2024 21:57:36.810 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+15-Dec-2024 21:57:36.810 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk-17
+15-Dec-2024 21:57:36.810 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.12+8-LTS-286
+15-Dec-2024 21:57:36.810 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+15-Dec-2024 21:57:36.810 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         E:\web\Fawry\Week3\Jax-RxTask
+15-Dec-2024 21:57:36.810 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\DELL\Desktop\apache-tomcat-9.0.98
+15-Dec-2024 21:57:36.820 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+15-Dec-2024 21:57:36.820 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+15-Dec-2024 21:57:36.820 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+15-Dec-2024 21:57:36.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+15-Dec-2024 21:57:36.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+15-Dec-2024 21:57:36.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\DELL\Desktop\apache-tomcat-9.0.98
+15-Dec-2024 21:57:36.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=E:\web\Fawry\Week3\Jax-RxTask
+15-Dec-2024 21:57:36.821 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=E:\web\Fawry\Week3\Jax-RxTask\temp
+15-Dec-2024 21:57:36.822 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=E:\web\Fawry\Week3\Jax-RxTask\conf\logging.properties
+15-Dec-2024 21:57:36.822 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+15-Dec-2024 21:57:36.822 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.7\lib\idea_rt.jar=51974:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2023.3.7\bin
+15-Dec-2024 21:57:36.822 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dfile.encoding=UTF-8
+15-Dec-2024 21:57:36.826 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded Apache Tomcat Native library [1.3.1] using APR version [1.7.4].
+15-Dec-2024 21:57:36.826 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+15-Dec-2024 21:57:36.826 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+15-Dec-2024 21:57:36.834 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 3.0.14 4 Jun 2024]
+15-Dec-2024 21:57:37.147 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+15-Dec-2024 21:57:37.173 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [567] milliseconds
+15-Dec-2024 21:57:37.231 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+15-Dec-2024 21:57:37.232 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.98]
+15-Dec-2024 21:57:37.241 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deploying deployment descriptor [E:\web\Fawry\Week3\Jax-RxTask\conf\Catalina\localhost\Jax-RxTask.xml]
+15-Dec-2024 21:57:37.392 WARNING [main] org.apache.tomcat.util.descriptor.web.WebXml.setVersion Unknown version string [6.0]. Default version will be used.
+15-Dec-2024 21:57:37.651 INFO [main] org.apache.catalina.startup.HostConfig.deployDescriptor Deployment of deployment descriptor [E:\web\Fawry\Week3\Jax-RxTask\conf\Catalina\localhost\Jax-RxTask.xml] has finished in [409] ms
+15-Dec-2024 21:57:37.657 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+15-Dec-2024 21:57:37.709 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [535] milliseconds
+15-Dec-2024 21:58:59.226 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+15-Dec-2024 21:58:59.463 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+15-Dec-2024 21:58:59.473 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+15-Dec-2024 21:58:59.492 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Context docBase="E:/web/Fawry/Week3/Jax-RxTask/Jax-RxTask/src/main/webapp">
+  <Resources cacheMaxSize="10240">
+    <PreResources base="E:/web/Fawry/Week3/Jax-RxTask/Jax-RxTask/target/classes" className="org.apache.catalina.webresources.DirResourceSet" webAppMount="/WEB-INF/classes"/>
+  </Resources>
+</Context>

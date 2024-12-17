@@ -1,0 +1,8 @@
+0:0:0:0:0:0:0:1 - - [15/Dec/2024:21:57:41 +0200] "GET /Jax-RxTask HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [15/Dec/2024:21:57:42 +0200] "GET /Jax-RxTask/ HTTP/1.1" 200 2074
+0:0:0:0:0:0:0:1 - - [15/Dec/2024:21:57:42 +0200] "GET /Jax-RxTask/images/jakartaee_logo.jpg HTTP/1.1" 200 191273
+0:0:0:0:0:0:0:1 - - [15/Dec/2024:21:58:14 +0200] "GET /Jax-RxTask/products HTTP/1.1" 404 774
+0:0:0:0:0:0:0:1 - - [15/Dec/2024:21:58:24 +0200] "GET /Jax-RxTask//products HTTP/1.1" 404 779
+0:0:0:0:0:0:0:1 - - [15/Dec/2024:21:58:26 +0200] "GET /Jax-RxTask//products HTTP/1.1" 404 779
+0:0:0:0:0:0:0:1 - - [15/Dec/2024:21:58:27 +0200] "GET /Jax-RxTask//products HTTP/1.1" 404 779
+0:0:0:0:0:0:0:1 - - [15/Dec/2024:21:58:39 +0200] "GET /Jax-RxTask/products HTTP/1.1" 404 774
